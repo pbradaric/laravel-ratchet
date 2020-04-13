@@ -1,5 +1,5 @@
 {
-    "name": "askedio/laravel-ratchet",
+    "name": "pbradaric/laravel-ratchet",
     "description": "A Ratchet Server built for Laravel",
     "keywords": ["laravel"],
     "license": "MIT",
